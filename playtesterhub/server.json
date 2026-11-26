@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.playtesterhub/playtesterhub",
+  "title": "PlayTesterHub",
+  "description": "Google Play closed testing: order 12 real Android testers for 14 days and follow the test.",
+  "websiteUrl": "https://playtesterhub.com/en/api-mcp",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://playtesterhub.com/api/mcp"
+    }
+  ]
+}
