@@ -4,6 +4,10 @@ Let your AI agent (Claude, ChatGPT, Cursor, Claude Code…) order and follow a G
 
 Address: `https://playtesterhub.com/api/mcp` ([details](playtesterhub/)). Hosted remote MCP server (Streamable HTTP) with OAuth or an API key: nothing to install. Your agent never pays on your behalf: orders return a payment link that a human opens.
 
+## Hangar reports
+
+With a [Hangar](https://hangarmobile.com/en) subscription (same account), the same key and MCP server also read the reports of the daily walk-throughs on our phones: see [playtesterhub/HANGAR-VEILLE.md](playtesterhub/HANGAR-VEILLE.md).
+
 ## Quick start
 
 **Claude.ai / Claude Desktop:** Settings › Connectors › Add custom connector, paste the address, then sign in and click Allow.
