@@ -1,5 +1,7 @@
 # PlayTesterHub MCP server
 
+[![PlayTesterHub MCP connector](https://glama.ai/mcp/connectors/com.playtesterhub/playtesterhub/badges/score.svg)](https://glama.ai/mcp/connectors/com.playtesterhub/playtesterhub)
+
 Let your AI agent (Claude, ChatGPT, Cursor, Claude Code…) order and follow a Google Play closed test on 12 real Android phones.
 
 Address: `https://playtesterhub.com/api/mcp` ([details](playtesterhub/)). Hosted remote MCP server (Streamable HTTP) with OAuth or an API key: nothing to install. Your agent never pays on your behalf: orders return a payment link that a human opens.
